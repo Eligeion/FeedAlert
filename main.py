@@ -1,7 +1,7 @@
 import cassiopeia as cass
 import json
 
-cass.set_riot_api_key("RGAPI-c5c897b9-1cd6-48a6-9f7b-6822f160bcb3")
+cass.set_riot_api_key("RIOT-PLS")
 cass.set_default_region("NA")
 
 matchID = 3152058384
