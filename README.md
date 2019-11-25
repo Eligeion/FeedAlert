@@ -10,7 +10,7 @@ a few hundred million games.
 Script is incredibly adept at hunting down Twisted Treeline bots, but people having bad games can sometimes get high scores. 
 
 Honestly, this is VERY arbitrary and don't bother relying on it. It was just for fun to play with the Riot API. Feel free to play
-around. 
+around. I set this up to pull data from my local DB, that has been provided in the lol_database.sql file.
 
 
 _____________
